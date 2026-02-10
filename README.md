@@ -11,9 +11,13 @@
 | birthord    | Serial number for live births (1 = first child, 2 = second, etc.). Blank for non-live births.     |
 | birthwgt_lb | Pounds part of the baby’s birth weight.                                                           |
 | birthwgt_oz | Ounces part of the baby’s birth weight.                                                           |
-| agepreg     | Mother’s age at the end of the pregnancy.                                                         |
+| agepreg     | Mother's age at the end of the pregnancy.                                                         |
 | finalwgt    | Statistical weight representing how many people in the U.S. population the respondent represents. |
-Chapter one workings: [Chapter1.ipynb](my-work/Chapter1.ipynb)
+
+## My Work
+
+My personal work and exercises can be found in the [my-work](my-work/) folder.
+
 This repository contains notebooks, data, and supplementary material for the third edition of *Think Stats*.
 
 [Click here to read the book online and run the notebooks](https://allendowney.github.io/ThinkStats/).
