@@ -1,19 +1,4 @@
 # ThinkStats
-
-## Chapter one Data 
-
-| Column Name | Description                                                                                       |
-|-------------|---------------------------------------------------------------------------------------------------|
-| caseid      | Integer ID of the respondent.                                                                     |
-| pregordr    | Pregnancy serial number (1 = first pregnancy, 2 = second, etc.).                                  |
-| prglngth    | Duration of the pregnancy in weeks.                                                               |
-| outcome     | Outcome code of the pregnancy (1 = live birth).                                                   |
-| birthord    | Serial number for live births (1 = first child, 2 = second, etc.). Blank for non-live births.     |
-| birthwgt_lb | Pounds part of the baby’s birth weight.                                                           |
-| birthwgt_oz | Ounces part of the baby’s birth weight.                                                           |
-| agepreg     | Mother's age at the end of the pregnancy.                                                         |
-| finalwgt    | Statistical weight representing how many people in the U.S. population the respondent represents. |
-
 ## My Work
 
 My personal work and exercises can be found in the [my-work](my-work/) folder.
